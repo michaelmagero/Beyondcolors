@@ -1,0 +1,124 @@
+#about-intro {
+	padding:50px 0 50px 0;
+	background-color: #fff;
+}
+
+.panel {
+	border: 1px solid #C0BEBE;
+}
+
+.panel .panel-white {
+	background-color: #fff !important;
+
+}
+
+.panel .panel-green {
+	background-color: #33803C !important;
+
+}
+
+.panel .panel-purple {
+	background-color: #3E2A87 !important;
+}
+
+.amount {
+	font-size: 25px;
+}
+
+#about-intro ul {
+	padding: 0;
+	margin: 0;
+}
+
+.features {
+	padding: 10px 10px 0 50px;
+}
+
+.amount {
+	color: #3097D1;
+}
+
+.inactive-feature {
+	color: #C0BEBE;
+	text-decoration: line-through;
+}
+
+.inactive-feature span {
+	color: #C0BEBE;
+}
+
+#about-intro ul li {
+	list-style: none;
+	padding: 7px 0 7px 0;
+}
+
+#about-intro h5 {
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+.problem-panel {
+	border-radius: 0 !important;
+	background-color: #fff !important;
+	border: none;
+	height: 140px;
+	box-shadow: 3px 3px 3px 4px#888888;
+}
+
+.problem-panel p {
+	font-size: 22px;
+	padding: 10px;
+}
+
+.problem-info {
+	font-size: 20px;
+	padding: 10px 0 10px 0;
+}
+
+.obstacles li{
+	font-size: 16px;
+}
+
+.bcwill {
+	font-size: 17px;
+}
+
+.cont-info {
+	font-size: 15px;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.small {
+	padding: 2px 0 0 5px;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.date{
+	font-size: 30px;
+	font-weight: 600;
+}
+
+
+ .past {
+ 	background-color:  
+      rgba(0, 0, 0, .8);
+}
+
+.past {
+    position: absolute;
+    padding: 100px 20px 0 100px;
+    width: 261px;
+    height: 230px;
+    color: #FFF;
+    font-size: 17px;
+}
+
+.partners {
+	padding: 50px 0 50px 0;
+}
+
+.req_btn {
+	padding: 130px 0 0 0;
+}
